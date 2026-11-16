@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "skills": {
+    "first-customer-finder": {
+      "source": "carolinacherry/claude-first-customer-finder-skill",
+      "commit": "d1b3873a8be779f34cb29c5e9d89e13342901f5c",
+      "sourceType": "github",
+      "skillPath": "skills/first-customer-finder/SKILL.md",
+      "computedHash": "62e738fdd5a97d9c7382822d10091014230f42a4fc740fc8beaa0570192dda3b"
+    }
+  }
+}
